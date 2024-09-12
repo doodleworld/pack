@@ -1,14 +1,12 @@
 name: "Build & Release"
 on: [push]
+permissions:
+  contents: write
+  releases: write
 jobs:
   build:
     runs-on: ubuntu-latest
     if: "!contains(github.event.commits[0].message, 'ci-skip:')"
-
-    permissions:
-      contents: write
-      releases: write
-
     steps:
 
 # clone
