@@ -1,0 +1,49 @@
+{
+	"providers": [
+		{
+			"type": "bitmap",
+			"file": "odin/black_box.png",
+			"height": 2000,
+			"ascent": 250,
+			"chars": [
+				"瀀"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "odin/danger.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6500"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "odin/info.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6501"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "odin/warning.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6502"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "odin/success.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6503"
+			]
+		}
+	]
+}
