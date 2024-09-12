@@ -1,8 +1,5 @@
 name: "Build & Release"
 on: [push]
-permissions:
-  contents: write
-  releases: write
 jobs:
   build:
     runs-on: ubuntu-latest
