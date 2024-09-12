@@ -5,9 +5,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
     if: "!contains(github.event.commits[0].message, 'ci-skip:')"
-    permissions:
-      contents: write
-      releases: write
     steps:
 
 # clone
@@ -17,7 +14,7 @@ jobs:
         ref: master
         fetch-depth: 0
 
-    - name: Shaders Workaround (prepare)
+    - name: Build
       run: |
         zip -r doodle.zip . -x ".*"
 
