@@ -4,6 +4,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
     if: "!contains(github.event.commits[0].message, 'ci-skip:')"
+
+    permissions:
+      contents: write
+      releases: write
+
     steps:
 
 # clone
@@ -28,8 +33,14 @@ jobs:
     - name: Configure Git
       run: git config --global user.email "no-reply@github.com" && git config --global user.name "Github Actions"
 
+    - name: Show GitHub Context
+      run: |
+        echo "GITHUB_REF: $GITHUB_REF"
+        echo "GITHUB_SHA: $GITHUB_SHA"
+        echo "GITHUB_TOKEN: $GITHUB_TOKEN"
+
     - name: Tag & Release
-      uses: softprops/action-gh-release@v3
+      uses: softprops/action-gh-release@v1
       with:
         tag_name: v${{ github.run_number }}-stable
         target_commitish: master
