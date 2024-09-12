@@ -14,36 +14,9 @@ jobs:
         ref: master
         fetch-depth: 0
 
-# shader workaround - prepare
     - name: Shaders Workaround (prepare)
       run: |
-        ls -la assets/minecraft/shaders || echo "Directory not found"
-        if [ -d assets/minecraft/shaders ]; then
-          zip -r shaders.zip assets/minecraft/shaders
-          rm -r assets/minecraft/shaders
-        else
-          echo "Shaders directory not found or empty"
-          exit 1
-        fi
-
-# build -> fetch -> rename
-    - name: Build
-      uses: ComunidadAylas/PackSquash-action@v4
-      with:
-        packsquash_version: latest-unstable
-        artifact_name: doodle
-        options: packsquash_options.toml
-    - name: Fetch
-      uses: actions/download-artifact@v4.1.1
-      with:
-        name: doodle
-
-# shader workaround - finalize
-    - name: Shaders Workaround (finalize)
-      run: |
-        unzip shaders.zip -d .
-        rm shaders.zip
-        zip -ur doodle.zip assets/minecraft/shaders
+        zip -r doodle.zip .
 
 # release
     - name: Hash
