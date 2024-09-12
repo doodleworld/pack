@@ -5,6 +5,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     if: "!contains(github.event.commits[0].message, 'ci-skip:')"
+    permissions:
+      contents: write
+      releases: write
     steps:
 
 # clone
@@ -16,7 +19,7 @@ jobs:
 
     - name: Shaders Workaround (prepare)
       run: |
-        zip -r doodle.zip .
+        zip -r doodle.zip . -x ".*"
 
 # release
     - name: Hash
@@ -25,8 +28,10 @@ jobs:
         HASH=$(shasum doodle.zip | cut -d " " -f 1)
         echo "Exporting pack hash to $HASH"
         echo "pack_hash=$HASH" >> $GITHUB_OUTPUT
+
     - name: Configure Git
       run: git config --global user.email "no-reply@github.com" && git config --global user.name "Github Actions"
+
     - name: Tag & Release
       uses: softprops/action-gh-release@v1
       with:
