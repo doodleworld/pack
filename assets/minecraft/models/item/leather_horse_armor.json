@@ -83,6 +83,6 @@
     	{"predicate": {"custom_model_data": 58076},"model": "item/custom/furniture/wooden_furniture/table/wooden_table_mangrove_variant"},
     	{"predicate": {"custom_model_data": 58077},"model": "item/custom/furniture/wooden_furniture/table/wooden_table_oak_variant"},
     	{"predicate": {"custom_model_data": 58078},"model": "item/custom/furniture/wooden_furniture/table/wooden_table_spruce_variant"},
-    	{"predicate": {"custom_model_data": 58079},"model": "item/custom/furniture/wooden_furniture/table/wooden_table_warped_variant"},
+    	{"predicate": {"custom_model_data": 58079},"model": "item/custom/furniture/wooden_furniture/table/wooden_table_warped_variant"}
     ]
 }
