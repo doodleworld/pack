@@ -1,0 +1,8 @@
+{
+	"credit": "MadewithBlockbench",
+	"parent": "furniture/wooden_furniture/table/wooden_table_acacia_variant",
+	"textures": {
+		"2": "furniture/wooden_furniture/table/wooden_table_dark_oak_variant",
+		"particle": "furniture/wooden_furniture/table/wooden_table_dark_oak_variant"
+	}
+}

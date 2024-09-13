@@ -44,6 +44,962 @@
 			"chars": [
 				"\u6503"
 			]
-		}
+		},
+		// Other shit
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/add_friend.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6504"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/aether_portal.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6505"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/blue_candy.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6506"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/blue_diamond.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6507"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/blue_gem.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6508"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/blue_gift.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6509"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/blue_money.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6510"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/blue_star.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6511"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/blue_ticket.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6512"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/book.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6513"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/chat.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6515"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/clock.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6516"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/coin.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6517"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/coins.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6518"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/compass.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6519"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/green_alert.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6520"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/green_candy.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6521"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/green_check.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6522"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/green_diamond.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6523"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/green_gem.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6524"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/green_gift.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6525"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/green_money.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6526"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/green_star.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6527"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/house_flat.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6528"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/house_green.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6529"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/house_orange.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6530"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/house_red.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6531"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/left_arrow.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6532"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/lock.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6533"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/muted.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6534"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/nether_portal.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6535"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/orange_alert.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6536"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/orange_diamond.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6537"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/orange_money.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6538"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/purple_candy.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6539"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/purple_diamond.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6540"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/purple_gem.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6541"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/purple_gift.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6542"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/purple_money.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6543"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/purple_star.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6544"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/pvp_disable.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6545"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/pvp_enable.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6546"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/red_alert.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6547"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/red_candy.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6548"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/red_cross.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6549"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/red_diamond.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6550"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/red_star.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6551"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/red_ticket.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6552"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/remove_friend.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6553"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/right_arrow.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6554"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/shield.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6555"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/shine_gift.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6556"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/unlock.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6557"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/unmute.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6558"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/world.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6559"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/yellow_diamond.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6560"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/yellow_gem.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6561"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/yellow_gift.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6562"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/yellow_star.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6563"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "useful_icon_pack/yellow_ticket.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"\u6564"
+			]
+		},
+		// Ranks
+		{
+			"type": "bitmap",
+			"file": "rank_icons/admin.png",
+			"height": 8,
+			"ascent": 9,
+			"chars": [
+				"\u6565"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "rank_icons/artist.png",
+			"height": 8,
+			"ascent": 9,
+			"chars": [
+				"\u6566"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "rank_icons/bedrock.png",
+			"height": 8,
+			"ascent": 9,
+			"chars": [
+				"\u6567"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "rank_icons/builder.png",
+			"height": 8,
+			"ascent": 9,
+			"chars": [
+				"\u6568"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "rank_icons/coal.png",
+			"height": 8,
+			"ascent": 9,
+			"chars": [
+				"\u6569"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "rank_icons/common.png",
+			"height": 8,
+			"ascent": 9,
+			"chars": [
+				"\u6570"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "rank_icons/copper.png",
+			"height": 8,
+			"ascent": 9,
+			"chars": [
+				"\u6571"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "rank_icons/developer.png",
+			"height": 8,
+			"ascent": 9,
+			"chars": [
+				"\u6572"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "rank_icons/diamond.png",
+			"height": 8,
+			"ascent": 9,
+			"chars": [
+				"\u6573"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "rank_icons/discord.png",
+			"height": 8,
+			"ascent": 9,
+			"chars": [
+				"\u6574"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "rank_icons/elite.png",
+			"height": 8,
+			"ascent": 9,
+			"chars": [
+				"\u6575"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "rank_icons/emerald.png",
+			"height": 8,
+			"ascent": 9,
+			"chars": [
+				"\u6576"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "rank_icons/epic.png",
+			"height": 8,
+			"ascent": 9,
+			"chars": [
+				"\u6577"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "rank_icons/facebook.png",
+			"height": 8,
+			"ascent": 9,
+			"chars": [
+				"\u6578"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "rank_icons/gold.png",
+			"height": 8,
+			"ascent": 9,
+			"chars": [
+				"\u6579"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "rank_icons/guest.png",
+			"height": 8,
+			"ascent": 9,
+			"chars": [
+				"\u6580"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "rank_icons/helper.png",
+			"height": 8,
+			"ascent": 9,
+			"chars": [
+				"\u6581"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "rank_icons/iron.png",
+			"height": 8,
+			"ascent": 9,
+			"chars": [
+				"\u6582"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "rank_icons/king.png",
+			"height": 8,
+			"ascent": 9,
+			"chars": [
+				"\u6583"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "rank_icons/knight.png",
+			"height": 8,
+			"ascent": 9,
+			"chars": [
+				"\u6584"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "rank_icons/legendary.png",
+			"height": 8,
+			"ascent": 9,
+			"chars": [
+				"\u6585"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "rank_icons/lord.png",
+			"height": 8,
+			"ascent": 9,
+			"chars": [
+				"\u6586"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "rank_icons/member.png",
+			"height": 8,
+			"ascent": 9,
+			"chars": [
+				"\u6587"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "rank_icons/moderator.png",
+			"height": 8,
+			"ascent": 9,
+			"chars": [
+				"\u6588"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "rank_icons/mvp.png",
+			"height": 8,
+			"ascent": 9,
+			"chars": [
+				"\u6589"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "rank_icons/mvpplus.png",
+			"height": 8,
+			"ascent": 9,
+			"chars": [
+				"\u6590"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "rank_icons/netherite.png",
+			"height": 8,
+			"ascent": 9,
+			"chars": [
+				"\u6591"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "rank_icons/nitro.png",
+			"height": 8,
+			"ascent": 9,
+			"chars": [
+				"\u6592"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "rank_icons/obsidian.png",
+			"height": 8,
+			"ascent": 9,
+			"chars": [
+				"\u6593"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "rank_icons/owner.png",
+			"height": 8,
+			"ascent": 9,
+			"chars": [
+				"\u6594"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "rank_icons/player.png",
+			"height": 8,
+			"ascent": 9,
+			"chars": [
+				"\u6595"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "rank_icons/queen.png",
+			"height": 8,
+			"ascent": 9,
+			"chars": [
+				"\u6596"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "rank_icons/rare.png",
+			"height": 8,
+			"ascent": 9,
+			"chars": [
+				"\u6597"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "rank_icons/soldier.png",
+			"height": 8,
+			"ascent": 9,
+			"chars": [
+				"\u6598"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "rank_icons/staff.png",
+			"height": 8,
+			"ascent": 9,
+			"chars": [
+				"\u6599"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "rank_icons/stone.png",
+			"height": 8,
+			"ascent": 9,
+			"chars": [
+				"\u6600"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "rank_icons/superrare.png",
+			"height": 8,
+			"ascent": 9,
+			"chars": [
+				"\u6601"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "rank_icons/supporter.png",
+			"height": 8,
+			"ascent": 9,
+			"chars": [
+				"\u6602"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "rank_icons/tiktok.png",
+			"height": 8,
+			"ascent": 9,
+			"chars": [
+				"\u6603"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "rank_icons/twitch.png",
+			"height": 8,
+			"ascent": 9,
+			"chars": [
+				"\u6604"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "rank_icons/ultimate.png",
+			"height": 8,
+			"ascent": 9,
+			"chars": [
+				"\u6605"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "rank_icons/uncommon.png",
+			"height": 8,
+			"ascent": 9,
+			"chars": [
+				"\u6606"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "rank_icons/vip.png",
+			"height": 8,
+			"ascent": 9,
+			"chars": [
+				"\u6607"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "rank_icons/vipplus.png",
+			"height": 8,
+			"ascent": 9,
+			"chars": [
+				"\u6608"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "rank_icons/warrior.png",
+			"height": 8,
+			"ascent": 9,
+			"chars": [
+				"\u6609"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "rank_icons/youtube.png",
+			"height": 8,
+			"ascent": 9,
+			"chars": [
+				"\u6610"
+			]
+		},
 	]
 }

@@ -1,0 +1,8 @@
+{
+	"credit": "MadewithBlockbench",
+	"parent": "furniture/wooden_furniture/bird_house/wooden_bird_house_acacia_variant",
+	"textures": {
+		"1": "furniture/wooden_furniture/bird_house/wooden_bird_house_birch_variant",
+		"particle": "furniture/wooden_furniture/bird_house/wooden_bird_house_birch_variant"
+	}
+}

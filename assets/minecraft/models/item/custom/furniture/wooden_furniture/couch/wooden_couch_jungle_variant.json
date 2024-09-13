@@ -1,0 +1,8 @@
+{
+	"credit": "MadewithBlockbench",
+	"parent": "hyrex/wooden_furniture/couch/wooden_couch_acacia_variant",
+	"textures": {
+		"2": "hyrex/wooden_furniture/couch/wooden_couch_jungle_variant",
+		"particle": "hyrex/wooden_furniture/couch/wooden_couch_jungle_variant"
+	}
+}

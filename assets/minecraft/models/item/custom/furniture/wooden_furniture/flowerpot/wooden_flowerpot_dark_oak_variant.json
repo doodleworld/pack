@@ -1,0 +1,8 @@
+{
+	"credit": "MadewithBlockbench",
+	"parent": "furniture/wooden_furniture/flowerpot/wooden_flowerpot_acacia_variant",
+	"textures": {
+		"1": "furniture/wooden_furniture/flowerpot/wooden_flowerpot_dark_oak_variant",
+		"particle": "furniture/wooden_furniture/flowerpot/wooden_flowerpot_dark_oak_variant"
+	}
+}

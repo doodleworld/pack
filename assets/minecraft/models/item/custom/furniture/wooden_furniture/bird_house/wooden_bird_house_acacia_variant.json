@@ -1,0 +1,151 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"1": "furniture/wooden_furniture/bird_house/wooden_bird_house_acacia_variant"
+	},
+	"elements": [
+		{
+			"from": [1.39564, 15.6821, 2.9],
+			"to": [2.59564, 30.8821, 13.1],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [8.14577, 18, 7.5]},
+			"faces": {
+				"north": {"uv": [10.75, 2.5, 11, 6.25], "texture": "#1"},
+				"east": {"uv": [8.25, 2.5, 10.75, 6.25], "texture": "#1"},
+				"south": {"uv": [13.5, 2.5, 13.75, 6.25], "texture": "#1"},
+				"west": {"uv": [11, 2.5, 13.5, 6.25], "texture": "#1"},
+				"up": {"uv": [11, 2.5, 10.75, 0], "texture": "#1"},
+				"down": {"uv": [11.25, 0, 11, 2.5], "texture": "#1"}
+			}
+		},
+		{
+			"from": [13.37625, 16.06478, 2.9],
+			"to": [14.57625, 31.26478, 13.1],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [8.75, 18, 7.5]},
+			"faces": {
+				"north": {"uv": [11, 2.5, 10.75, 6.25], "texture": "#1"},
+				"east": {"uv": [13.5, 2.5, 11, 6.25], "texture": "#1"},
+				"south": {"uv": [13.75, 2.5, 13.5, 6.25], "texture": "#1"},
+				"west": {"uv": [10.75, 2.5, 8.25, 6.25], "texture": "#1"},
+				"up": {"uv": [10.75, 2.5, 11, 0], "texture": "#1"},
+				"down": {"uv": [11, 0, 11.25, 2.5], "texture": "#1"}
+			}
+		},
+		{
+			"from": [4, 24, 4],
+			"to": [12, 32, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.5, 18, 7.5]},
+			"faces": {
+				"north": {"uv": [2, 7.25, 4, 9.25], "texture": "#1"},
+				"east": {"uv": [0, 7.25, 2, 9.25], "texture": "#1"},
+				"south": {"uv": [6, 7.25, 8, 9.25], "texture": "#1"},
+				"west": {"uv": [4, 7.25, 6, 9.25], "texture": "#1"},
+				"up": {"uv": [4, 7.25, 2, 5.25], "texture": "#1"},
+				"down": {"uv": [6, 5.25, 4, 7.25], "texture": "#1"}
+			}
+		},
+		{
+			"from": [4, 12, 4],
+			"to": [12, 24, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.5, 18, 7.5]},
+			"faces": {
+				"north": {"uv": [2, 2, 4, 5], "texture": "#1"},
+				"east": {"uv": [0, 2, 2, 5], "texture": "#1"},
+				"south": {"uv": [6, 2, 8, 5], "texture": "#1"},
+				"west": {"uv": [4, 2, 6, 5], "texture": "#1"},
+				"up": {"uv": [4, 2, 2, 0], "texture": "#1"},
+				"down": {"uv": [6, 0, 4, 2], "texture": "#1"}
+			}
+		},
+		{
+			"from": [7, 13, -3],
+			"to": [9, 13, 4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 12, 0]},
+			"faces": {
+				"north": {"uv": [10.75, 8.25, 11.25, 8.25], "texture": "#1"},
+				"east": {"uv": [9, 8.25, 10.75, 8.25], "texture": "#1"},
+				"south": {"uv": [13, 8.25, 13.5, 8.25], "texture": "#1"},
+				"west": {"uv": [11.25, 8.25, 13, 8.25], "texture": "#1"},
+				"up": {"uv": [11.25, 8.25, 10.75, 6.5], "texture": "#1"},
+				"down": {"uv": [11.75, 6.5, 11.25, 8.25], "texture": "#1"}
+			}
+		},
+		{
+			"from": [7, 0, 7],
+			"to": [9, 12, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.5, 18, 7.5]},
+			"faces": {
+				"north": {"uv": [2.5, 10.5, 3, 13.5], "texture": "#1"},
+				"east": {"uv": [2, 10.5, 2.5, 13.5], "texture": "#1"},
+				"south": {"uv": [3.5, 10.5, 4, 13.5], "texture": "#1"},
+				"west": {"uv": [3, 10.5, 3.5, 13.5], "texture": "#1"},
+				"up": {"uv": [3, 10.5, 2.5, 10], "texture": "#1"},
+				"down": {"uv": [3.5, 10, 3, 10.5], "texture": "#1"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [0.2, 0.2, 0.2]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0.2, 0.2, 0.2]
+		},
+		"firstperson_righthand": {
+			"rotation": [-180, 62.75, -180],
+			"translation": [0, 1.75, 0.75],
+			"scale": [0.27734, 0.27734, 0.27734]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-180, 62.75, -180],
+			"translation": [0, 1.75, 1.5],
+			"scale": [0.27734, 0.27734, 0.27734]
+		},
+		"ground": {
+			"translation": [0, 0.25, 0],
+			"scale": [0.2832, 0.2832, 0.2832]
+		},
+		"gui": {
+			"rotation": [-160, 45, 180],
+			"translation": [0, -3.25, 0],
+			"scale": [0.43984, 0.43984, 0.43984]
+		},
+		"head": {
+			"translation": [0, 8.75, 0],
+			"scale": [0.4668, 0.4668, 0.4668]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -14],
+			"scale": [2, 2, 2]
+		}
+	},
+	"groups": [
+		{
+			"name": "root",
+			"origin": [12.5, 10, 7.5],
+			"color": 0,
+			"children": [
+				{
+					"name": "roof",
+					"origin": [8, 8, 8],
+					"color": 0,
+					"children": [0, 1]
+				},
+				{
+					"name": "body",
+					"origin": [12.5, 10, 7.5],
+					"color": 0,
+					"children": [2, 3, 4]
+				},
+				{
+					"name": "stick",
+					"origin": [0, 0, 0],
+					"color": 0,
+					"children": [5]
+				}
+			]
+		}
+	]
+}

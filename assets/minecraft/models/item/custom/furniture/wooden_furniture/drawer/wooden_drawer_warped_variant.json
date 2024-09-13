@@ -1,0 +1,8 @@
+{
+	"credit": "MadewithBlockbench",
+	"parent": "hyrex/wooden_furniture/drawer/wooden_drawer_oak_variant",
+	"textures": {
+		"1": "hyrex/wooden_furniture/drawer/wooden_drawer_warped_variant",
+		"particle": "hyrex/wooden_furniture/drawer/wooden_drawer_warped_variant"
+	}
+}

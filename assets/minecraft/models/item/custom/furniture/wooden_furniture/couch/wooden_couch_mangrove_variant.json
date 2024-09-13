@@ -1,0 +1,8 @@
+{
+	"credit": "MadewithBlockbench",
+	"parent": "furniture/wooden_furniture/couch/wooden_couch_acacia_variant",
+	"textures": {
+		"2": "furniture/wooden_furniture/couch/wooden_couch_mangrove_variant",
+		"particle": "furniture/wooden_furniture/couch/wooden_couch_mangrove_variant"
+	}
+}
