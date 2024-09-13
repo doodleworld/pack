@@ -2,7 +2,7 @@
 	"providers": [
 		{
 			"type": "bitmap",
-			"file": "odin/black_box.png",
+			"file": "doodle/black_box.png",
 			"height": 2000,
 			"ascent": 250,
 			"chars": [
@@ -11,7 +11,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "odin/danger.png",
+			"file": "doodle/danger.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": [
@@ -20,7 +20,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "odin/info.png",
+			"file": "doodle/info.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": [
@@ -29,7 +29,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "odin/warning.png",
+			"file": "doodle/warning.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": [
@@ -38,7 +38,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "odin/success.png",
+			"file": "doodle/success.png",
 			"height": 7,
 			"ascent": 7,
 			"chars": [

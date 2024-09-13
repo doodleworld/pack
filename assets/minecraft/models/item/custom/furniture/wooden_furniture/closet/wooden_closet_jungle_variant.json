@@ -1,6 +1,6 @@
 {
 	"credit": "MadewithBlockbench",
-	"parent": "furniture/wooden_furniture/closet/wooden_closet_oak_variant",
+	"parent": "item/custom/furniture/wooden_furniture/closet/wooden_closet_oak_variant",
 	"textures": {
 		"0": "furniture/wooden_furniture/closet/wooden_closet_jungle_variant",
 		"particle": "furniture/wooden_furniture/closet/wooden_closet_jungle_variant"
