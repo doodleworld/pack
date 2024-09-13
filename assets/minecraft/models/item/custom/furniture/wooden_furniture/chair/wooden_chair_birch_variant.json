@@ -2,7 +2,7 @@
 	"credit": "MadewithBlockbench",
 	"parent": "item/custom/furniture/wooden_furniture/chair/wooden_chair_acacia_variant",
 	"textures": {
-		"0": "furniture/wooden_furniture/chair/wodden_chair_birch_variant",
-		"particle": "furniture/wooden_furniture/chair/wodden_chair_birch_variant"
+		"0": "item/furniture/wooden_furniture/chair/wodden_chair_birch_variant",
+		"particle": "item/furniture/wooden_furniture/chair/wodden_chair_birch_variant"
 	}
 }

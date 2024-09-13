@@ -2,7 +2,7 @@
 	"credit": "MadewithBlockbench",
 	"parent": "item/custom/furniture/wooden_furniture/closet/wooden_closet_oak_variant",
 	"textures": {
-		"0": "furniture/wooden_furniture/closet/wooden_closet_dark_oak_variant",
-		"particle": "furniture/wooden_furniture/closet/wooden_closet_dark_oak_variant"
+		"0": "item/furniture/wooden_furniture/closet/wooden_closet_dark_oak_variant",
+		"particle": "item/furniture/wooden_furniture/closet/wooden_closet_dark_oak_variant"
 	}
 }

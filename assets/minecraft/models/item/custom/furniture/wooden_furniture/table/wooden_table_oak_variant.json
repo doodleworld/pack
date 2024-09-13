@@ -2,7 +2,7 @@
 	"credit": "MadewithBlockbench",
 	"parent": "item/custom/furniture/wooden_furniture/table/wooden_table_acacia_variant",
 	"textures": {
-		"2": "furniture/wooden_furniture/table/wooden_table_oak_variant",
-		"particle": "furniture/wooden_furniture/table/wooden_table_oak_variant"
+		"2": "item/furniture/wooden_furniture/table/wooden_table_oak_variant",
+		"particle": "item/furniture/wooden_furniture/table/wooden_table_oak_variant"
 	}
 }

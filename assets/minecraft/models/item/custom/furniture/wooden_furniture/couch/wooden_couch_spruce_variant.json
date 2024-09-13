@@ -2,7 +2,7 @@
 	"credit": "MadewithBlockbench",
 	"parent": "item/custom/furniture/wooden_furniture/couch/wooden_couch_acacia_variant",
 	"textures": {
-		"2": "furniture/wooden_furniture/couch/wooden_couch_spruce_variant",
-		"particle": "furniture/wooden_furniture/couch/wooden_couch_spruce_variant"
+		"2": "item/furniture/wooden_furniture/couch/wooden_couch_spruce_variant",
+		"particle": "item/furniture/wooden_furniture/couch/wooden_couch_spruce_variant"
 	}
 }
