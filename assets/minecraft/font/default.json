@@ -596,7 +596,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "rank_icons/artist.png",
+			"file": "rank_icons/admin.png",
 			"height": 9,
 			"ascent": 8,
 			"chars": [
@@ -605,7 +605,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "rank_icons/bedrock.png",
+			"file": "rank_icons/developer.png",
 			"height": 9,
 			"ascent": 8,
 			"chars": [
@@ -614,7 +614,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "rank_icons/builder.png",
+			"file": "rank_icons/doodle.png",
 			"height": 9,
 			"ascent": 8,
 			"chars": [
@@ -623,7 +623,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "rank_icons/coal.png",
+			"file": "rank_icons/flash.png",
 			"height": 9,
 			"ascent": 8,
 			"chars": [
@@ -632,7 +632,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "rank_icons/common.png",
+			"file": "rank_icons/admin.png",
 			"height": 9,
 			"ascent": 8,
 			"chars": [
@@ -641,7 +641,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "rank_icons/copper.png",
+			"file": "rank_icons/helper.png",
 			"height": 9,
 			"ascent": 8,
 			"chars": [
@@ -650,7 +650,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "rank_icons/developer.png",
+			"file": "rank_icons/hero.png",
 			"height": 9,
 			"ascent": 8,
 			"chars": [
@@ -659,7 +659,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "rank_icons/diamond.png",
+			"file": "rank_icons/jelly.png",
 			"height": 9,
 			"ascent": 8,
 			"chars": [
@@ -668,7 +668,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "rank_icons/discord.png",
+			"file": "rank_icons/manager.png",
 			"height": 9,
 			"ascent": 8,
 			"chars": [
@@ -677,7 +677,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "rank_icons/elite.png",
+			"file": "rank_icons/mod.png",
 			"height": 9,
 			"ascent": 8,
 			"chars": [
@@ -686,7 +686,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "rank_icons/emerald.png",
+			"file": "rank_icons/nova.png",
 			"height": 9,
 			"ascent": 8,
 			"chars": [
@@ -695,7 +695,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "rank_icons/epic.png",
+			"file": "rank_icons/owner.png",
 			"height": 9,
 			"ascent": 8,
 			"chars": [
@@ -704,7 +704,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "rank_icons/facebook.png",
+			"file": "rank_icons/rush.png",
 			"height": 9,
 			"ascent": 8,
 			"chars": [
@@ -713,7 +713,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "rank_icons/gold.png",
+			"file": "rank_icons/spark.png",
 			"height": 9,
 			"ascent": 8,
 			"chars": [
@@ -722,7 +722,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "rank_icons/guest.png",
+			"file": "rank_icons/sr_admin.png",
 			"height": 9,
 			"ascent": 8,
 			"chars": [
@@ -731,7 +731,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "rank_icons/helper.png",
+			"file": "rank_icons/sr_mod.png",
 			"height": 9,
 			"ascent": 8,
 			"chars": [
@@ -740,263 +740,11 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "rank_icons/iron.png",
+			"file": "rank_icons/turbo.png",
 			"height": 9,
 			"ascent": 8,
 			"chars": [
 				"\u6582"
-			]
-		},
-		{
-			"type": "bitmap",
-			"file": "rank_icons/king.png",
-			"height": 9,
-			"ascent": 8,
-			"chars": [
-				"\u6583"
-			]
-		},
-		{
-			"type": "bitmap",
-			"file": "rank_icons/knight.png",
-			"height": 9,
-			"ascent": 8,
-			"chars": [
-				"\u6584"
-			]
-		},
-		{
-			"type": "bitmap",
-			"file": "rank_icons/legendary.png",
-			"height": 9,
-			"ascent": 8,
-			"chars": [
-				"\u6585"
-			]
-		},
-		{
-			"type": "bitmap",
-			"file": "rank_icons/lord.png",
-			"height": 9,
-			"ascent": 8,
-			"chars": [
-				"\u6586"
-			]
-		},
-		{
-			"type": "bitmap",
-			"file": "rank_icons/member.png",
-			"height": 9,
-			"ascent": 8,
-			"chars": [
-				"\u6587"
-			]
-		},
-		{
-			"type": "bitmap",
-			"file": "rank_icons/moderator.png",
-			"height": 9,
-			"ascent": 8,
-			"chars": [
-				"\u6588"
-			]
-		},
-		{
-			"type": "bitmap",
-			"file": "rank_icons/mvp.png",
-			"height": 9,
-			"ascent": 8,
-			"chars": [
-				"\u6589"
-			]
-		},
-		{
-			"type": "bitmap",
-			"file": "rank_icons/mvpplus.png",
-			"height": 9,
-			"ascent": 8,
-			"chars": [
-				"\u6590"
-			]
-		},
-		{
-			"type": "bitmap",
-			"file": "rank_icons/netherite.png",
-			"height": 9,
-			"ascent": 8,
-			"chars": [
-				"\u6591"
-			]
-		},
-		{
-			"type": "bitmap",
-			"file": "rank_icons/nitro.png",
-			"height": 9,
-			"ascent": 8,
-			"chars": [
-				"\u6592"
-			]
-		},
-		{
-			"type": "bitmap",
-			"file": "rank_icons/obsidian.png",
-			"height": 9,
-			"ascent": 8,
-			"chars": [
-				"\u6593"
-			]
-		},
-		{
-			"type": "bitmap",
-			"file": "rank_icons/owner.png",
-			"height": 9,
-			"ascent": 8,
-			"chars": [
-				"\u6594"
-			]
-		},
-		{
-			"type": "bitmap",
-			"file": "rank_icons/player.png",
-			"height": 9,
-			"ascent": 8,
-			"chars": [
-				"\u6595"
-			]
-		},
-		{
-			"type": "bitmap",
-			"file": "rank_icons/queen.png",
-			"height": 9,
-			"ascent": 8,
-			"chars": [
-				"\u6596"
-			]
-		},
-		{
-			"type": "bitmap",
-			"file": "rank_icons/rare.png",
-			"height": 9,
-			"ascent": 8,
-			"chars": [
-				"\u6597"
-			]
-		},
-		{
-			"type": "bitmap",
-			"file": "rank_icons/soldier.png",
-			"height": 9,
-			"ascent": 8,
-			"chars": [
-				"\u6598"
-			]
-		},
-		{
-			"type": "bitmap",
-			"file": "rank_icons/staff.png",
-			"height": 9,
-			"ascent": 8,
-			"chars": [
-				"\u6599"
-			]
-		},
-		{
-			"type": "bitmap",
-			"file": "rank_icons/stone.png",
-			"height": 9,
-			"ascent": 8,
-			"chars": [
-				"\u6600"
-			]
-		},
-		{
-			"type": "bitmap",
-			"file": "rank_icons/superrare.png",
-			"height": 9,
-			"ascent": 8,
-			"chars": [
-				"\u6601"
-			]
-		},
-		{
-			"type": "bitmap",
-			"file": "rank_icons/supporter.png",
-			"height": 9,
-			"ascent": 8,
-			"chars": [
-				"\u6602"
-			]
-		},
-		{
-			"type": "bitmap",
-			"file": "rank_icons/tiktok.png",
-			"height": 9,
-			"ascent": 8,
-			"chars": [
-				"\u6603"
-			]
-		},
-		{
-			"type": "bitmap",
-			"file": "rank_icons/twitch.png",
-			"height": 9,
-			"ascent": 8,
-			"chars": [
-				"\u6604"
-			]
-		},
-		{
-			"type": "bitmap",
-			"file": "rank_icons/ultimate.png",
-			"height": 9,
-			"ascent": 8,
-			"chars": [
-				"\u6605"
-			]
-		},
-		{
-			"type": "bitmap",
-			"file": "rank_icons/uncommon.png",
-			"height": 9,
-			"ascent": 8,
-			"chars": [
-				"\u6606"
-			]
-		},
-		{
-			"type": "bitmap",
-			"file": "rank_icons/vip.png",
-			"height": 9,
-			"ascent": 8,
-			"chars": [
-				"\u6607"
-			]
-		},
-		{
-			"type": "bitmap",
-			"file": "rank_icons/vipplus.png",
-			"height": 9,
-			"ascent": 8,
-			"chars": [
-				"\u6608"
-			]
-		},
-		{
-			"type": "bitmap",
-			"file": "rank_icons/warrior.png",
-			"height": 9,
-			"ascent": 8,
-			"chars": [
-				"\u6609"
-			]
-		},
-		{
-			"type": "bitmap",
-			"file": "rank_icons/youtube.png",
-			"height": 9,
-			"ascent": 8,
-			"chars": [
-				"\u6610"
 			]
 		}
 	]
