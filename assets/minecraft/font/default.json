@@ -596,7 +596,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "rank_icons/admin.png",
+			"file": "rank_icons/member.png",
 			"height": 9,
 			"ascent": 8,
 			"chars": [
