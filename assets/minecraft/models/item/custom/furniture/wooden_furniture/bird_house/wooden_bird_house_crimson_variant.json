@@ -2,7 +2,7 @@
 	"credit": "MadewithBlockbench",
 	"parent": "item/custom/furniture/wooden_furniture/bird_house/wooden_bird_house_acacia_variant",
 	"textures": {
-		"1": "item/furniture/wooden_furniture/bird_house/wooden_bird_house_crimson_variant",
-		"particle": "item/furniture/wooden_furniture/bird_house/wooden_bird_house_crimson_variant"
+		"1": "item/custom/furniture/wooden_furniture/bird_house/wooden_bird_house_crimson_variant",
+		"particle": "item/custom/furniture/wooden_furniture/bird_house/wooden_bird_house_crimson_variant"
 	}
 }

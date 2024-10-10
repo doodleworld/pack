@@ -2,7 +2,7 @@
 	"credit": "MadewithBlockbench",
 	"parent": "item/custom/furniture/wooden_furniture/drawer/wooden_drawer_oak_variant",
 	"textures": {
-		"1": "item/furniture/wooden_furniture/drawer/wooden_drawer_acacia_variant",
-		"particle": "item/furniture/wooden_furniture/drawer/wooden_drawer_acacia_variant"
+		"1": "item/custom/furniture/wooden_furniture/drawer/wooden_drawer_acacia_variant",
+		"particle": "item/custom/furniture/wooden_furniture/drawer/wooden_drawer_acacia_variant"
 	}
 }

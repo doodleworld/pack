@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [128, 128],
 	"textures": {
-		"2": "item/furniture/wooden_furniture/couch/wooden_couch_acacia_variant",
-		"particle": "item/furniture/wooden_furniture/couch/wooden_couch_acacia_variant"
+		"2": "item/custom/furniture/wooden_furniture/couch/wooden_couch_acacia_variant",
+		"particle": "item/custom/furniture/wooden_furniture/couch/wooden_couch_acacia_variant"
 	},
 	"elements": [
 		{

@@ -2,7 +2,7 @@
 	"credit": "MadewithBlockbench",
 	"parent": "item/custom/furniture/wooden_furniture/flowerpot/wooden_flowerpot_acacia_variant",
 	"textures": {
-		"1": "item/furniture/wooden_furniture/flowerpot/wooden_flowerpot_oak_variant",
-		"particle": "item/furniture/wooden_furniture/flowerpot/wooden_flowerpot_oak_variant"
+		"1": "item/custom/furniture/wooden_furniture/flowerpot/wooden_flowerpot_oak_variant",
+		"particle": "item/custom/furniture/wooden_furniture/flowerpot/wooden_flowerpot_oak_variant"
 	}
 }

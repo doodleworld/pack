@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "item/furniture/wooden_furniture/bird_house/wooden_bird_house_acacia_variant"
+		"1": "item/custom/furniture/wooden_furniture/bird_house/wooden_bird_house_acacia_variant"
 	},
 	"elements": [
 		{

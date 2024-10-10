@@ -2,7 +2,7 @@
 	"credit": "MadewithBlockbench",
 	"parent": "item/custom/furniture/wooden_furniture/large_table/wooden_large_table_oak_variant",
 	"textures": {
-		"10": "item/furniture/wooden_furniture/large_table/wooden_large_table_spruce_variant",
-		"particle": "item/furniture/wooden_furniture/large_table/wooden_large_table_spruce_variant"
+		"10": "item/custom/furniture/wooden_furniture/large_table/wooden_large_table_spruce_variant",
+		"particle": "item/custom/furniture/wooden_furniture/large_table/wooden_large_table_spruce_variant"
 	}
 }
