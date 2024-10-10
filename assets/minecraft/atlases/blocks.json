@@ -1,1 +1,14 @@
-{"sources":[{"type":"directory","source":"doodle","prefix":"doodle/"},{"type":"directory","source":"entity","prefix":"entity/"}]}
+{
+    "sources": [
+        {
+            "type": "directory",
+            "source": "doodle",
+            "prefix": "doodle/"
+        },
+        {
+            "type": "directory",
+            "source": "entity",
+            "prefix": "entity/"
+        }
+    ]
+}

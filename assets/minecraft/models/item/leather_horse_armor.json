@@ -83,6 +83,26 @@
     	{"predicate": {"custom_model_data": 58076},"model": "item/custom/furniture/wooden_furniture/table/wooden_table_mangrove_variant"},
     	{"predicate": {"custom_model_data": 58077},"model": "item/custom/furniture/wooden_furniture/table/wooden_table_oak_variant"},
     	{"predicate": {"custom_model_data": 58078},"model": "item/custom/furniture/wooden_furniture/table/wooden_table_spruce_variant"},
-    	{"predicate": {"custom_model_data": 58079},"model": "item/custom/furniture/wooden_furniture/table/wooden_table_warped_variant"}
+    	{"predicate": {"custom_model_data": 58079},"model": "item/custom/furniture/wooden_furniture/table/wooden_table_warped_variant"},
+      { "predicate": { "custom_model_data": 58080 }, "model": "elitecreatures:summer_furniture_v1/adirondack_chair" },
+      { "predicate": { "custom_model_data": 58081 }, "model": "elitecreatures:summer_furniture_v1/bench_chair" },
+      { "predicate": { "custom_model_data": 58082 }, "model": "elitecreatures:summer_furniture_v1/coffee_table" },
+      { "predicate": { "custom_model_data": 58083 }, "model": "elitecreatures:summer_furniture_v1/fire_pit" },
+      { "predicate": { "custom_model_data": 58084 }, "model": "elitecreatures:summer_furniture_v1/folding_chair" },
+      { "predicate": { "custom_model_data": 58085 }, "model": "elitecreatures:summer_furniture_v1/folding_picnic_table" },
+      { "predicate": { "custom_model_data": 58086 }, "model": "elitecreatures:summer_furniture_v1/hammock" },
+      { "predicate": { "custom_model_data": 58087 }, "model": "elitecreatures:summer_furniture_v1/lounge_chair" },
+      { "predicate": { "custom_model_data": 58088 }, "model": "elitecreatures:summer_furniture_v1/outdoor_bar_cart" },
+      { "predicate": { "custom_model_data": 58089 }, "model": "elitecreatures:summer_furniture_v1/outdoor_cushions" },
+      { "predicate": { "custom_model_data": 58090 }, "model": "elitecreatures:summer_furniture_v1/outdoor_dining_table" },
+      { "predicate": { "custom_model_data": 58091 }, "model": "elitecreatures:summer_furniture_v1/outdoor_lanterns" },
+      { "predicate": { "custom_model_data": 58092 }, "model": "elitecreatures:summer_furniture_v1/outdoor_planters" },
+      { "predicate": { "custom_model_data": 58093 }, "model": "elitecreatures:summer_furniture_v1/outdoor_rug" },
+      { "predicate": { "custom_model_data": 58094 }, "model": "elitecreatures:summer_furniture_v1/outdoor_sofa" },
+      { "predicate": { "custom_model_data": 58095 }, "model": "elitecreatures:summer_furniture_v1/patio_umbrella" },
+      { "predicate": { "custom_model_data": 58096 }, "model": "elitecreatures:summer_furniture_v1/side_table" },
+      { "predicate": { "custom_model_data": 58097 }, "model": "elitecreatures:summer_furniture_v1/string_light" },
+      { "predicate": { "custom_model_data": 58098 }, "model": "elitecreatures:summer_furniture_v1/sun_lounger" },
+      { "predicate": { "custom_model_data": 58099 }, "model": "elitecreatures:summer_furniture_v1/tiki_torches" }
     ]
 }
