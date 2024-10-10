@@ -103,6 +103,16 @@
       { "predicate": { "custom_model_data": 58096 }, "model": "item/custom/furniture/summer_furniture_v1/side_table" },
       { "predicate": { "custom_model_data": 58097 }, "model": "item/custom/furniture/summer_furniture_v1/string_light" },
       { "predicate": { "custom_model_data": 58098 }, "model": "item/custom/furniture/summer_furniture_v1/sun_lounger" },
-      { "predicate": { "custom_model_data": 58099 }, "model": "item/custom/furniture/summer_furniture_v1/tiki_torches" }
+      { "predicate": { "custom_model_data": 58099 }, "model": "item/custom/furniture/summer_furniture_v1/tiki_torches" },
+      { "predicate": { "custom_model_data": 58100 }, "model": "item/custom/plushies/nm_plushie_clown_blue" },
+      { "predicate": { "custom_model_data": 58101 }, "model": "item/custom/plushies/nm_plushie_clown_red" },
+      { "predicate": { "custom_model_data": 58102 }, "model": "item/custom/plushies/nm_plushie_death" },
+      { "predicate": { "custom_model_data": 58103 }, "model": "item/custom/plushies/nm_plushie_devil" },
+      { "predicate": { "custom_model_data": 58104 }, "model": "item/custom/plushies/nm_plushie_frank_stein" },
+      { "predicate": { "custom_model_data": 58105 }, "model": "item/custom/plushies/nm_plushie_golden_mr_bones" },
+      { "predicate": { "custom_model_data": 58106 }, "model": "item/custom/plushies/nm_plushie_jack_lantern" },
+      { "predicate": { "custom_model_data": 58107 }, "model": "item/custom/plushies/nm_plushie_mr_bones" },
+      { "predicate": { "custom_model_data": 58108 }, "model": "item/custom/plushies/nm_plushie_mummy" },
+      { "predicate": { "custom_model_data": 58109 }, "model": "item/custom/plushies/nm_plushie_vampire" }
     ]
 }
