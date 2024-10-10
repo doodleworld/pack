@@ -113,6 +113,17 @@
       { "predicate": { "custom_model_data": 58106 }, "model": "item/custom/plushies/nm_plushie_jack_lantern" },
       { "predicate": { "custom_model_data": 58107 }, "model": "item/custom/plushies/nm_plushie_mr_bones" },
       { "predicate": { "custom_model_data": 58108 }, "model": "item/custom/plushies/nm_plushie_mummy" },
-      { "predicate": { "custom_model_data": 58109 }, "model": "item/custom/plushies/nm_plushie_vampire" }
+      { "predicate": { "custom_model_data": 58109 }, "model": "item/custom/plushies/nm_plushie_vampire" },
+
+      { "predicate": { "custom_model_data": 58110 }, "model": "item/custom/hats/customhatsv1/alligator_hat" },
+      { "predicate": { "custom_model_data": 58111 }, "model": "item/custom/hats/customhatsv1/beret_hat" },
+      { "predicate": { "custom_model_data": 58112 }, "model": "item/custom/hats/customhatsv1/cookie_monster_hat" },
+      { "predicate": { "custom_model_data": 58113 }, "model": "item/custom/hats/customhatsv1/crab_hat_hat" },
+      { "predicate": { "custom_model_data": 58114 }, "model": "item/custom/hats/customhatsv1/farmer_hat" },
+      { "predicate": { "custom_model_data": 58115 }, "model": "item/custom/hats/customhatsv1/gold_top_hat" },
+      { "predicate": { "custom_model_data": 58116 }, "model": "item/custom/hats/customhatsv1/ice_cream_cone_hat" },
+      { "predicate": { "custom_model_data": 58117 }, "model": "item/custom/hats/customhatsv1/miner_hat" },
+      { "predicate": { "custom_model_data": 58118 }, "model": "item/custom/hats/customhatsv1/viking_hat" },
+      { "predicate": { "custom_model_data": 58119 }, "model": "item/custom/hats/customhatsv1/wizard_hat" }
     ]
 }
