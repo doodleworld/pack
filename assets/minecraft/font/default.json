@@ -696,7 +696,7 @@
 		{
 			"type": "bitmap",
 			"file": "rank_icons/srmod.png",
-			"height": 9,
+			"height": 12,
 			"ascent": 8,
 			"chars": [
 				"\u6577"
