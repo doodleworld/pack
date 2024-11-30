@@ -587,7 +587,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "rank_icons/admin.png",
+			"file": "rank_icons/Admin.png",
 			"height": 9,
 			"ascent": 8,
 			"chars": [
@@ -596,7 +596,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "rank_icons/member.png",
+			"file": "rank_icons/Bandit.png",
 			"height": 9,
 			"ascent": 8,
 			"chars": [
@@ -605,7 +605,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "rank_icons/developer.png",
+			"file": "rank_icons/Developer.png",
 			"height": 9,
 			"ascent": 8,
 			"chars": [
@@ -614,7 +614,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "rank_icons/doodle.png",
+			"file": "rank_icons/Fiend.png",
 			"height": 9,
 			"ascent": 8,
 			"chars": [
@@ -623,7 +623,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "rank_icons/flash.png",
+			"file": "rank_icons/Fool.png",
 			"height": 9,
 			"ascent": 8,
 			"chars": [
@@ -632,7 +632,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "rank_icons/admin.png",
+			"file": "rank_icons/Helper.png",
 			"height": 9,
 			"ascent": 8,
 			"chars": [
@@ -641,7 +641,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "rank_icons/helper.png",
+			"file": "rank_icons/Manager.png",
 			"height": 9,
 			"ascent": 8,
 			"chars": [
@@ -650,7 +650,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "rank_icons/hero.png",
+			"file": "rank_icons/Mod.png",
 			"height": 9,
 			"ascent": 8,
 			"chars": [
@@ -659,7 +659,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "rank_icons/jelly.png",
+			"file": "rank_icons/Owner.png",
 			"height": 9,
 			"ascent": 8,
 			"chars": [
@@ -668,7 +668,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "rank_icons/manager.png",
+			"file": "rank_icons/Prankster.png",
 			"height": 9,
 			"ascent": 8,
 			"chars": [
@@ -677,7 +677,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "rank_icons/mod.png",
+			"file": "rank_icons/Psycho.png",
 			"height": 9,
 			"ascent": 8,
 			"chars": [
@@ -686,7 +686,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "rank_icons/nova.png",
+			"file": "rank_icons/Rogue.png",
 			"height": 9,
 			"ascent": 8,
 			"chars": [
@@ -695,7 +695,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "rank_icons/owner.png",
+			"file": "rank_icons/SrMod.png",
 			"height": 9,
 			"ascent": 8,
 			"chars": [
@@ -704,47 +704,11 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "rank_icons/rush.png",
+			"file": "rank_icons/Troll.png",
 			"height": 9,
 			"ascent": 8,
 			"chars": [
 				"\u6578"
-			]
-		},
-		{
-			"type": "bitmap",
-			"file": "rank_icons/spark.png",
-			"height": 9,
-			"ascent": 8,
-			"chars": [
-				"\u6579"
-			]
-		},
-		{
-			"type": "bitmap",
-			"file": "rank_icons/sr_admin.png",
-			"height": 9,
-			"ascent": 8,
-			"chars": [
-				"\u6580"
-			]
-		},
-		{
-			"type": "bitmap",
-			"file": "rank_icons/sr_mod.png",
-			"height": 9,
-			"ascent": 8,
-			"chars": [
-				"\u6581"
-			]
-		},
-		{
-			"type": "bitmap",
-			"file": "rank_icons/turbo.png",
-			"height": 9,
-			"ascent": 8,
-			"chars": [
-				"\u6582"
 			]
 		}
 	]
