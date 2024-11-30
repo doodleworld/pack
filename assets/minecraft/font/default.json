@@ -587,7 +587,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "rank_icons/Admin.png",
+			"file": "rank_icons/admin.png",
 			"height": 9,
 			"ascent": 8,
 			"chars": [
@@ -596,7 +596,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "rank_icons/Bandit.png",
+			"file": "rank_icons/bandit.png",
 			"height": 9,
 			"ascent": 8,
 			"chars": [
@@ -605,7 +605,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "rank_icons/Developer.png",
+			"file": "rank_icons/developer.png",
 			"height": 9,
 			"ascent": 8,
 			"chars": [
@@ -614,7 +614,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "rank_icons/Fiend.png",
+			"file": "rank_icons/fiend.png",
 			"height": 9,
 			"ascent": 8,
 			"chars": [
@@ -623,7 +623,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "rank_icons/Fool.png",
+			"file": "rank_icons/fool.png",
 			"height": 9,
 			"ascent": 8,
 			"chars": [
@@ -632,7 +632,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "rank_icons/Helper.png",
+			"file": "rank_icons/helper.png",
 			"height": 9,
 			"ascent": 8,
 			"chars": [
@@ -641,7 +641,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "rank_icons/Manager.png",
+			"file": "rank_icons/manager.png",
 			"height": 9,
 			"ascent": 8,
 			"chars": [
@@ -650,7 +650,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "rank_icons/Mod.png",
+			"file": "rank_icons/mod.png",
 			"height": 9,
 			"ascent": 8,
 			"chars": [
@@ -659,7 +659,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "rank_icons/Owner.png",
+			"file": "rank_icons/owner.png",
 			"height": 9,
 			"ascent": 8,
 			"chars": [
@@ -668,7 +668,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "rank_icons/Prankster.png",
+			"file": "rank_icons/prankster.png",
 			"height": 9,
 			"ascent": 8,
 			"chars": [
@@ -677,7 +677,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "rank_icons/Psycho.png",
+			"file": "rank_icons/psycho.png",
 			"height": 9,
 			"ascent": 8,
 			"chars": [
@@ -686,7 +686,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "rank_icons/Rogue.png",
+			"file": "rank_icons/rogue.png",
 			"height": 9,
 			"ascent": 8,
 			"chars": [
@@ -695,7 +695,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "rank_icons/SrMod.png",
+			"file": "rank_icons/srmod.png",
 			"height": 9,
 			"ascent": 8,
 			"chars": [
@@ -704,7 +704,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "rank_icons/Troll.png",
+			"file": "rank_icons/troll.png",
 			"height": 9,
 			"ascent": 8,
 			"chars": [
