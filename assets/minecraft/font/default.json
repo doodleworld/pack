@@ -2,15 +2,6 @@
 	"providers": [
 		{
 			"type": "bitmap",
-			"file": "doodle/black_box.png",
-			"height": 2000,
-			"ascent": 250,
-			"chars": [
-				"瀀"
-			]
-		},
-		{
-			"type": "bitmap",
 			"file": "doodle/danger.png",
 			"height": 7,
 			"ascent": 7,
